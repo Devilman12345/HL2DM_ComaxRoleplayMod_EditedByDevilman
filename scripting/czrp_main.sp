@@ -2,6 +2,7 @@
 //Revised by [GR]Nick 3.2.6n
 //Re-Revised by EasSide[-ZZ-]
 //Comax RolePlay Mod by Reloaded
+//Modified by Devilman
 
 /* CHANGELOG ->
 	* 4.2 - First stable release
